@@ -19,3 +19,5 @@ ERC-721 etherscan: https://rinkeby.etherscan.io/address/0x7E1f630719a45743636b96
 	   "value": "SugarDaddy" 
 	}, ]
 }
+
+MetaData IPFS URL: https://ipfs.io/ipfs/QmbB9eRMwYsgvN71j9jbjeNRbvyxnyC7nTmz6YQN5faE1b
